@@ -1,1 +1,8 @@
-
+body{
+    background-color: blueviolet;
+    background-image: url('./travel.jpg');
+    background-size: cover;
+    font-family: fantasy;
+}
+header{
+    text-align: center;}
